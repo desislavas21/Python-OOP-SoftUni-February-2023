@@ -1,6 +1,5 @@
-from Exercise.ex_6_Guild_System import Song
+from Exercise.ex_7_Spoopify.song import Song
 from typing import List
-
 
 class Album:
 
